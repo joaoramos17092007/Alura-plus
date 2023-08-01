@@ -8,7 +8,7 @@ body {
   padding: 0;
 }
 
-.principal{
+.principal {
   background-image: url("./img/Background.png");
   background-repeat: no-repeat;
   background-size: contain;
@@ -21,8 +21,7 @@ body {
 
 }
 
-.container__botao{
-
+.container__botao {
   background-color: var(--botao-azul);
 }
 
